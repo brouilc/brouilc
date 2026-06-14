@@ -10,6 +10,7 @@ Analytical Expertise: Predictive Modeling · General Linear Models (GLM) · Logi
 
 ## Featured Project 
 [SFO Customer Experience Survey Analysis](https://www.github.com/brouilc/SFO_CX_Survey)
+
 Python · SAS · BERTopic · Statistical Testing
 
 Analyzed customer satisfaction survey responses before and after a TSA screening area update at San Francisco International Airport. Combined rigorous statistical testing in SAS with LLM-based topic modeling in Python to evaluate whether the update meaningfully improved the customer experience and where gaps remained.
