@@ -12,7 +12,7 @@ Analytical Expertise: Predictive Modeling · General Linear Models (GLM) · Logi
 
 Python · SAS · BERTopic · Statistical Testing
 
-Analyzed customer satisfaction survey responses before and after a TSA screening area update at San Francisco International Airport. Combined rigorous statistical testing in SAS with LLM-based topic modeling in Python to evaluate whether the update meaningfully improved the customer experience and where gaps remained.
+Analyzed customer satisfaction survey responses before and after a TSA screening area update at San Francisco International Airport. Combined rigorous statistical testing in SAS with NLP topic modeling in Python to evaluate whether the update meaningfully improved the customer experience and where gaps remained.
 
 - Designed a custom SAS macro framework for collinearity analysis, significance testing, and Likert driver modeling
 - Applied BERTopic to freeform text responses to identify topics and compare their frequency between pre- and post-update samples
